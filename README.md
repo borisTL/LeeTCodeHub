@@ -17,5 +17,10 @@
 ## Array
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/borisTL/LeeTCodeHub/tree/master/0334-increasing-triplet-subsequence) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/borisTL/LeeTCodeHub/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+## Greedy
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/borisTL/LeeTCodeHub/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
