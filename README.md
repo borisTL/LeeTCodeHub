@@ -26,6 +26,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/borisTL/LeeTCodeHub/tree/master/0334-increasing-triplet-subsequence) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/borisTL/LeeTCodeHub/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/borisTL/LeeTCodeHub/tree/master/0792-binary-search) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/borisTL/LeeTCodeHub/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/borisTL/LeeTCodeHub/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Greedy
 |  |
@@ -41,4 +42,9 @@
 | [0035-search-insert-position](https://github.com/borisTL/LeeTCodeHub/tree/master/0035-search-insert-position) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/borisTL/LeeTCodeHub/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/borisTL/LeeTCodeHub/tree/master/0792-binary-search) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/borisTL/LeeTCodeHub/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+## Matrix
+|  |
+| ------- |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/borisTL/LeeTCodeHub/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
