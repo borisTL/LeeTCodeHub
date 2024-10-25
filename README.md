@@ -20,6 +20,7 @@
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/borisTL/LeeTCodeHub/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/borisTL/LeeTCodeHub/tree/master/0035-search-insert-position) |
 | [0238-product-of-array-except-self](https://github.com/borisTL/LeeTCodeHub/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/borisTL/LeeTCodeHub/tree/master/0283-move-zeroes) |
@@ -39,6 +40,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/borisTL/LeeTCodeHub/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/borisTL/LeeTCodeHub/tree/master/0035-search-insert-position) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/borisTL/LeeTCodeHub/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/borisTL/LeeTCodeHub/tree/master/0792-binary-search) |
