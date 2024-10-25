@@ -20,6 +20,7 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/borisTL/LeeTCodeHub/tree/master/0035-search-insert-position) |
 | [0238-product-of-array-except-self](https://github.com/borisTL/LeeTCodeHub/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/borisTL/LeeTCodeHub/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/borisTL/LeeTCodeHub/tree/master/0334-increasing-triplet-subsequence) |
@@ -32,4 +33,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/borisTL/LeeTCodeHub/tree/master/0238-product-of-array-except-self) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/borisTL/LeeTCodeHub/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
