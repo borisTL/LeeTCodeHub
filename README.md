@@ -49,6 +49,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/borisTL/LeeTCodeHub/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/borisTL/LeeTCodeHub/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/borisTL/LeeTCodeHub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0374-guess-number-higher-or-lower](https://github.com/borisTL/LeeTCodeHub/tree/master/0374-guess-number-higher-or-lower) |
 | [0436-find-right-interval](https://github.com/borisTL/LeeTCodeHub/tree/master/0436-find-right-interval) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/borisTL/LeeTCodeHub/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/borisTL/LeeTCodeHub/tree/master/0792-binary-search) |
@@ -73,4 +74,8 @@
 | ------- |
 | [1023-time-based-key-value-store](https://github.com/borisTL/LeeTCodeHub/tree/master/1023-time-based-key-value-store) |
 | [1249-snapshot-array](https://github.com/borisTL/LeeTCodeHub/tree/master/1249-snapshot-array) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/borisTL/LeeTCodeHub/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
