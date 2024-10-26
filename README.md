@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/borisTL/LeeTCodeHub/tree/master/0443-string-compression) |
+| [1023-time-based-key-value-store](https://github.com/borisTL/LeeTCodeHub/tree/master/1023-time-based-key-value-store) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/borisTL/LeeTCodeHub/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/borisTL/LeeTCodeHub/tree/master/1894-merge-strings-alternately) |
 ## Math
@@ -48,6 +49,7 @@
 | [0436-find-right-interval](https://github.com/borisTL/LeeTCodeHub/tree/master/0436-find-right-interval) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/borisTL/LeeTCodeHub/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/borisTL/LeeTCodeHub/tree/master/0792-binary-search) |
+| [1023-time-based-key-value-store](https://github.com/borisTL/LeeTCodeHub/tree/master/1023-time-based-key-value-store) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/borisTL/LeeTCodeHub/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Matrix
 |  |
@@ -57,4 +59,12 @@
 |  |
 | ------- |
 | [0436-find-right-interval](https://github.com/borisTL/LeeTCodeHub/tree/master/0436-find-right-interval) |
+## Hash Table
+|  |
+| ------- |
+| [1023-time-based-key-value-store](https://github.com/borisTL/LeeTCodeHub/tree/master/1023-time-based-key-value-store) |
+## Design
+|  |
+| ------- |
+| [1023-time-based-key-value-store](https://github.com/borisTL/LeeTCodeHub/tree/master/1023-time-based-key-value-store) |
 <!---LeetCode Topics End-->
