@@ -14,17 +14,15 @@ class SnapshotArray(object):
         """
         Устанавливает значение val для элемента на позиции index для текущего snap_id
         """
-        # Проверка: убедиться, что index находится в допустимом диапазоне
         if index < 0 or index >= len(self.data):
             raise IndexError("Index out of bounds")
 
-        # Проверка: если текущий snap_id уже есть в последних данных для данного индекса
-        # Мы обновляем значение последней записи, если snap_id совпадает
+        
         if self.data[index][-1][0] == self.snap_id:
-            # Обновляем значение в последней записи
+            
             self.data[index][-1] = (self.snap_id, val)
         else:
-            # Добавляем новую запись (snap_id, val)
+        
             self.data[index].append((self.snap_id, val))
         
 
@@ -37,12 +35,12 @@ class SnapshotArray(object):
 
     def get(self, index, snap_id):
         """
-        Возвращает значение для данного индекса на момент снимка snap_id
+     
         """
         if index < 0 or index >= len(self.data):
             raise IndexError("Index out of bounds")
 
-        # Ищем значение, соответствующее snap_id, используя бинарный поиск
+       
         values = self.data[index]
         left, right = 0, len(values) - 1
         result = 0
