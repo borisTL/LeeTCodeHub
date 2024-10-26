@@ -30,6 +30,7 @@
 | [0436-find-right-interval](https://github.com/borisTL/LeeTCodeHub/tree/master/0436-find-right-interval) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/borisTL/LeeTCodeHub/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/borisTL/LeeTCodeHub/tree/master/0792-binary-search) |
+| [1249-snapshot-array](https://github.com/borisTL/LeeTCodeHub/tree/master/1249-snapshot-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/borisTL/LeeTCodeHub/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/borisTL/LeeTCodeHub/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Greedy
@@ -50,6 +51,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/borisTL/LeeTCodeHub/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/borisTL/LeeTCodeHub/tree/master/0792-binary-search) |
 | [1023-time-based-key-value-store](https://github.com/borisTL/LeeTCodeHub/tree/master/1023-time-based-key-value-store) |
+| [1249-snapshot-array](https://github.com/borisTL/LeeTCodeHub/tree/master/1249-snapshot-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/borisTL/LeeTCodeHub/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Matrix
 |  |
@@ -63,8 +65,10 @@
 |  |
 | ------- |
 | [1023-time-based-key-value-store](https://github.com/borisTL/LeeTCodeHub/tree/master/1023-time-based-key-value-store) |
+| [1249-snapshot-array](https://github.com/borisTL/LeeTCodeHub/tree/master/1249-snapshot-array) |
 ## Design
 |  |
 | ------- |
 | [1023-time-based-key-value-store](https://github.com/borisTL/LeeTCodeHub/tree/master/1023-time-based-key-value-store) |
+| [1249-snapshot-array](https://github.com/borisTL/LeeTCodeHub/tree/master/1249-snapshot-array) |
 <!---LeetCode Topics End-->
