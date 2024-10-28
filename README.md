@@ -17,6 +17,7 @@
 ## Math
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/borisTL/LeeTCodeHub/tree/master/0367-valid-perfect-square) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/borisTL/LeeTCodeHub/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Array
 |  |
@@ -49,6 +50,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/borisTL/LeeTCodeHub/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/borisTL/LeeTCodeHub/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/borisTL/LeeTCodeHub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0367-valid-perfect-square](https://github.com/borisTL/LeeTCodeHub/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/borisTL/LeeTCodeHub/tree/master/0374-guess-number-higher-or-lower) |
 | [0436-find-right-interval](https://github.com/borisTL/LeeTCodeHub/tree/master/0436-find-right-interval) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/borisTL/LeeTCodeHub/tree/master/0745-find-smallest-letter-greater-than-target) |
