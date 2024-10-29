@@ -37,6 +37,7 @@
 | [1249-snapshot-array](https://github.com/borisTL/LeeTCodeHub/tree/master/1249-snapshot-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/borisTL/LeeTCodeHub/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/borisTL/LeeTCodeHub/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1646-kth-missing-positive-number](https://github.com/borisTL/LeeTCodeHub/tree/master/1646-kth-missing-positive-number) |
 ## Greedy
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | [1023-time-based-key-value-store](https://github.com/borisTL/LeeTCodeHub/tree/master/1023-time-based-key-value-store) |
 | [1249-snapshot-array](https://github.com/borisTL/LeeTCodeHub/tree/master/1249-snapshot-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/borisTL/LeeTCodeHub/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1646-kth-missing-positive-number](https://github.com/borisTL/LeeTCodeHub/tree/master/1646-kth-missing-positive-number) |
 ## Matrix
 |  |
 | ------- |
