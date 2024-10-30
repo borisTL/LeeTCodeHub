@@ -28,6 +28,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/borisTL/LeeTCodeHub/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/borisTL/LeeTCodeHub/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/borisTL/LeeTCodeHub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/borisTL/LeeTCodeHub/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0238-product-of-array-except-self](https://github.com/borisTL/LeeTCodeHub/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/borisTL/LeeTCodeHub/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/borisTL/LeeTCodeHub/tree/master/0334-increasing-triplet-subsequence) |
@@ -55,6 +56,7 @@
 | [0035-search-insert-position](https://github.com/borisTL/LeeTCodeHub/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/borisTL/LeeTCodeHub/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/borisTL/LeeTCodeHub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/borisTL/LeeTCodeHub/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0367-valid-perfect-square](https://github.com/borisTL/LeeTCodeHub/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/borisTL/LeeTCodeHub/tree/master/0374-guess-number-higher-or-lower) |
 | [0436-find-right-interval](https://github.com/borisTL/LeeTCodeHub/tree/master/0436-find-right-interval) |
