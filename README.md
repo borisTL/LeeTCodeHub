@@ -32,6 +32,7 @@
 | [0283-move-zeroes](https://github.com/borisTL/LeeTCodeHub/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/borisTL/LeeTCodeHub/tree/master/0334-increasing-triplet-subsequence) |
 | [0436-find-right-interval](https://github.com/borisTL/LeeTCodeHub/tree/master/0436-find-right-interval) |
+| [0540-single-element-in-a-sorted-array](https://github.com/borisTL/LeeTCodeHub/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/borisTL/LeeTCodeHub/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/borisTL/LeeTCodeHub/tree/master/0792-binary-search) |
 | [1249-snapshot-array](https://github.com/borisTL/LeeTCodeHub/tree/master/1249-snapshot-array) |
@@ -58,6 +59,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/borisTL/LeeTCodeHub/tree/master/0374-guess-number-higher-or-lower) |
 | [0436-find-right-interval](https://github.com/borisTL/LeeTCodeHub/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/borisTL/LeeTCodeHub/tree/master/0441-arranging-coins) |
+| [0540-single-element-in-a-sorted-array](https://github.com/borisTL/LeeTCodeHub/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/borisTL/LeeTCodeHub/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/borisTL/LeeTCodeHub/tree/master/0792-binary-search) |
 | [1023-time-based-key-value-store](https://github.com/borisTL/LeeTCodeHub/tree/master/1023-time-based-key-value-store) |
