@@ -7,6 +7,7 @@
 | [0283-move-zeroes](https://github.com/borisTL/LeeTCodeHub/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/borisTL/LeeTCodeHub/tree/master/0443-string-compression) |
 | [1894-merge-strings-alternately](https://github.com/borisTL/LeeTCodeHub/tree/master/1894-merge-strings-alternately) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/borisTL/LeeTCodeHub/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## String
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/borisTL/LeeTCodeHub/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/borisTL/LeeTCodeHub/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1646-kth-missing-positive-number](https://github.com/borisTL/LeeTCodeHub/tree/master/1646-kth-missing-positive-number) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/borisTL/LeeTCodeHub/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Greedy
 |  |
 | ------- |
@@ -70,6 +72,7 @@
 | [1249-snapshot-array](https://github.com/borisTL/LeeTCodeHub/tree/master/1249-snapshot-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/borisTL/LeeTCodeHub/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/borisTL/LeeTCodeHub/tree/master/1646-kth-missing-positive-number) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/borisTL/LeeTCodeHub/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Matrix
 |  |
 | ------- |
@@ -78,6 +81,7 @@
 |  |
 | ------- |
 | [0436-find-right-interval](https://github.com/borisTL/LeeTCodeHub/tree/master/0436-find-right-interval) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/borisTL/LeeTCodeHub/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Hash Table
 |  |
 | ------- |
